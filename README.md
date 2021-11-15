@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ae9a038-bddd-4ff9-9b2a-51810b34073f/deploy-status)](https://app.netlify.com/sites/ecstatic-bassi-f8ef65/deploys)
